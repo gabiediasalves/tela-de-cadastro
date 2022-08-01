@@ -1,6 +1,6 @@
 # 📝 Tela de cadastro
 
-- Projeto simples feito em VueJS com tela de cadastro para vaga de tecnologia
+- Projeto simples feito em VueJS com tela de cadastro para vaga de tecnologia com estilização feita com BootStrap 
 
 ![image](https://user-images.githubusercontent.com/95694730/180908811-93d7b4b3-fc63-44f0-ab08-16d2e8bf7fde.png)
 
