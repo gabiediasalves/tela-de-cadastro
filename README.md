@@ -21,5 +21,5 @@
 - Exercitar criação e desenvolvimento de formulários em VueJS
 - Aprender a utilizar a direta v-model para setar e extrair valores
 
-#### 🔸Acesse o projeto <a href="https://gabiediasalves.github.io/Customer-Registration-CRUD/">clicando aqui</a>
+#### 🔸Acesse o projeto <a href="https://gabiediasalves.github.io/tela-de-cadastro/">clicando aqui</a>
 
